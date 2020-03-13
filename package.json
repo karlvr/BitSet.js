@@ -39,6 +39,6 @@
         "mocha": "*",
         "should": "*",
         "google-closure-compiler": "*",
-        "gulp": "*"
+        "gulp": "3"
     }
 }
